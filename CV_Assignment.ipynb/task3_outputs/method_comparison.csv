@@ -1,0 +1,3 @@
+Method,Purpose,Detections,Approach
+Viola–Jones,Face detection,0,Haar Cascade classifier
+YOLOv8,Detection of multiple object classes,8,Pretrained deep learning model
